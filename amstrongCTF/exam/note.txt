@@ -1,0 +1,12 @@
+nhập destrust: Sau khi trừ đi nó vượt quá giới hạn của số nguyên -> trust_level > threshold
+de = 0
+tr = 0
+th = 2147483646
+============
+de = 0 => tr = 0 =>
+
+giai:
+nhap 2147483647 vao truoc
+xong sau do nhap chuoi
+'I confirm that I am taking this exam between the dates 5/24/2024 and 5/27/2024. I will not disclose any information about any section of this exam.'
+2 lan la se lay duoc flag
